@@ -24,6 +24,6 @@ Examples :
 - 100 images, format jpeg.
 
 ## Authors
-Alan Hokgie Wijaya / 202010370311248
-Mochammad Uridho Akbar Firmansyah / 202010370311256
+Alan Hokgie Wijaya / 202010370311248,
+Mochammad Uridho Akbar Firmansyah / 202010370311256,
 Sartika / 0910580520012
